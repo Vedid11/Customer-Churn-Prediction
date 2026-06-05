@@ -24,6 +24,7 @@ Customer churn directly impacts business revenue. The objective of this project 
 * XGBoost
 * FastAPI
 * Streamlit
+* Pydantic
 
 ---
 
