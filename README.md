@@ -153,10 +153,6 @@ Hyperparameter tuning was performed using **GridSearchCV**, and **XGBoost** achi
 
 # Model Evaluation
 
-### Model Comparison
-
-![Model Comparison](images/Model%20Training/model_comparison.png)
-
 ### Model Comparison (Bar Chart)
 
 ![Comparison Bar](images/Model%20Training/model_comparison_bar.png)
@@ -187,7 +183,7 @@ SHAP (SHapley Additive exPlanations) was used to understand how individual featu
 
 ### SHAP Summary Plot
 
-![SHAP Summary](images/Model%20Training/shap_summary.png)
+![SHAP Summary](images/Model%20Training/Shap_summary.png)
 
 ---
 
