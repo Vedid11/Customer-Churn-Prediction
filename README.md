@@ -183,7 +183,7 @@ SHAP (SHapley Additive exPlanations) was used to understand how individual featu
 
 ### SHAP Summary Plot
 
-![SHAP Summary](images/Model%20Training/Shap_summary.png)
+![SHAP Summary](images/Shap_summary.png)
 
 ---
 
